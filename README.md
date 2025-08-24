@@ -15,11 +15,15 @@ React + Vite single-page app UI for the Simple Expense Tracker. Uses Tailwind vi
 - Tailwind CSS (CDN for fast setup)
 - Fetch API to call backend endpoints
 
-Run locally (quickstart)
-1. Install:
-   cd simple-expense-tracker-frontend
+UI Wireframe 
+- ![A photo of low fidelity wireframe](images/wireframe.jpg)
+
+Run locally
+1. Clone: git clone https://github.com/Mihishan09/Expense-tracker-client-side.git
+2. Install:
+   cd expense-tracker-frontend
    npm install
-2. Start:
+3. Start:
    npm run dev
-3. Open http://localhost:5173
+4. Open http://localhost:5173
 5. Configure the API base URL in a config file or .env (e.g., REACT_APP_API_URL=http://localhost:5000)
